@@ -1,0 +1,13 @@
+.footer {
+	position: fixed;
+	height: 70px;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #f94722;
+	text-align: center;
+	box-shadow: 5px 5px 5px 5px; 
+}
+.logo {
+	padding-top: 5px;
+}
